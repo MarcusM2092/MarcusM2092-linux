@@ -1,0 +1,110 @@
+Row: 0 display_name=M'Bank Diverts Off, number=##004#
+Row: 1 display_name=#100#, number=#100#
+Row: 2 display_name=Int'l Message Bank, number=#101#
+Row: 3 display_name=M'Bank Diverts On, number=*004*101#
+Row: 4 display_name=Northside Pest Management, number=+61 402 714 840
+Row: 5 display_name=Alison, number=+61 406 333 904
+Row: 6 display_name=Marg, number=+61 407 915 072
+Row: 7 display_name=Chris Perrin, number=+61 412 730 982
+Row: 8 display_name=Huy le, number=+61 415 888 589
+Row: 9 display_name=David Stefanovic, number=+61 418 265 178
+Row: 10 display_name=Geoff And Chris (coc), number=+61 419 125 975
+Row: 11 display_name=Robert Elphick, number=+61 422 101 166
+Row: 12 display_name=Ashby Partners Melissa, number=+61 424 137 804
+Row: 13 display_name=Nathan Goldstone, number=+61 437 535 677
+Row: 14 display_name=Michael Work, number=+61 459 515 340
+Row: 15 display_name=Feifei Huang, number=+61 480 418 806
+Row: 16 display_name=Puja Gras, number=+61 490 460 272
+Row: 17 display_name=Video Message Bank, number=+61101
+Row: 18 display_name=M'Bank Callback, number=+61101300101
+Row: 19 display_name=Feifei Huang, number=+61478696883
+Row: 20 display_name=+61485884956, number=+61485884956
+Row: 21 display_name=Mr Matthew Mark McDowell, number=02 6213 6407
+Row: 22 display_name=Julie (Meissa), number=0400 119 652
+Row: 23 display_name=Alice, number=0401 611 618
+Row: 24 display_name=Kevin & Glenys, number=0402 393 940
+Row: 25 display_name=Brett Woodford, number=0402 831 426
+Row: 26 display_name=Seetoh Peter, number=0402916049
+Row: 27 display_name=Simon Diep, number=0404 639 747
+Row: 28 display_name=Mrs Rose McDowell, number=0404888660
+Row: 29 display_name=Chris, number=0405593520
+Row: 30 display_name=Ivan Great Great Uncle (Rose), number=0408 798 877
+Row: 31 display_name=Mierisch David, number=0408868993
+Row: 32 display_name=Sam Priestley, number=0409 339 990
+Row: 33 display_name=Belinda Lawton, number=0409305000
+Row: 34 display_name=Rob (Evie) Dad North Ainslie, number=0410 870 910
+Row: 35 display_name=Lewis Barr, number=0411 572 589
+Row: 36 display_name=Ken Pastor, number=0412 530 982
+Row: 37 display_name=Chris ( Christina), number=0412 625 523
+Row: 38 display_name=Trent Rawlings, number=0412771352
+Row: 39 display_name=Tommy, number=0413 573 769
+Row: 40 display_name=Steve, number=0413 724 277
+Row: 41 display_name=Christina, number=0415 217 300
+Row: 42 display_name=Catherine (Church), number=0415 894 849
+Row: 43 display_name=Dream House Sandra Lj Hooker, number=0416 121 155
+Row: 44 display_name=Jared Parsons, number=0416 276 617
+Row: 45 display_name=Novus Autoglass ( Keith), number=0417 254 416
+Row: 46 display_name=Robert Woolfe, number=0417 265 405
+Row: 47 display_name=Nigel (Smick Gardens), number=0417 410 830
+Row: 48 display_name=Smoke Alarm Testing Services, number=0417 566 316
+Row: 49 display_name=John Stephens, number=0418 625 089
+Row: 50 display_name=Graham Robertson, number=0418 632 968
+Row: 51 display_name=Robert Stirling, number=0420 936 175
+Row: 52 display_name=Beacon Light Electrician, number=0422 373 042
+Row: 53 display_name=Mr Matthew Mark McDowell, number=0423580073
+Row: 54 display_name=Paul Seaman, number=0430008617
+Row: 55 display_name=Susannah, number=0431 208 599
+Row: 56 display_name=Robert Scott, number=0431 245 215
+Row: 57 display_name=Elisha, number=0431 759 232
+Row: 58 display_name=Chelito Waga(chille), number=0431 799 236
+Row: 59 display_name=Jim, number=0431528487
+Row: 60 display_name=josh hughes, number=0431890097
+Row: 61 display_name=Ian Mackenzie, number=0434 494 461
+Row: 62 display_name=Tara Crim, number=0435 742 903
+Row: 63 display_name=D'Aquino Paul, number=0438 233 206
+Row: 64 display_name=Anton (work), number=0438 987 307
+Row: 65 display_name=Perry David, number=0438014955
+Row: 66 display_name=Paul Funnel, number=0439 329 422
+Row: 67 display_name=Netti (Cousin), number=0468 312 363
+Row: 68 display_name=Jack, number=0468 911 980
+Row: 69 display_name=Vishna Nand, number=0468 948 353
+Row: 70 display_name=North Ainslie, number=0476 857 262
+Row: 71 display_name=Capital Chemist Dickson, number=0480 255 531
+Row: 72 display_name=Eve Stefanovic, number=0481 192 544
+Row: 73 display_name=Jessica, number=0481 226 346
+Row: 74 display_name=Marcus McDowell, number=0490 019 894
+Row: 75 display_name=Grace McDowell, number=0490 060 089
+Row: 76 display_name=Tamyka Nguyen, number=0498 883 335
+Row: 77 display_name=MessageBank, number=101
+Row: 78 display_name=Voice Messages, number=121
+Row: 79 display_name=Voice mail on, number=1211
+Row: 80 display_name=Voice mail text, number=1218
+Row: 81 display_name=Voice mail ring, number=1219
+Row: 82 display_name=Directory Assist., number=1223
+Row: 83 display_name=Phone Setup, number=125130
+Row: 84 display_name=My Account, number=126170
+Row: 85 display_name=Customer Care, number=1300303646
+Row: 86 display_name=Electricity, number=131093
+Row: 87 display_name=Poisons Information Centre, number=131126
+Row: 88 display_name=ActewAGL Wtr/sew, number=131193
+Row: 89 display_name=ActewAGL Gas, number=131909
+Row: 90 display_name=Natural Gas, number=131909
+Row: 91 display_name=Canberra Connect, number=132281
+Row: 92 display_name=State Emergency Service, number=132500
+Row: 93 display_name=Rescue Coordination Centre Australia, number=1800 641 792
+Row: 94 display_name=Rescue Coordination Centre Australia, number=1800 815 257
+Row: 95 display_name=Rose g, number=1800 861 597
+Row: 96 display_name=National Security Hotline, number=1800123400
+Row: 97 display_name=Crime Stoppers, number=1800333000
+Row: 98 display_name=Gold Creek Motors, number=61073350
+Row: 99 display_name=Chris Goulstone, number=61408414940
+Row: 100 display_name=The Calvary Hospital, number=62016111
+Row: 101 display_name=Calvary Health Care ACT, number=62016111
+Row: 102 display_name=Dental E Service, number=62051653
+Row: 103 display_name=Rolfe Mazda, number=62131300
+Row: 104 display_name=The Canberra Hospital, number=62442222
+Row: 105 display_name=Water & Sewerage, number=62483111
+Row: 106 display_name=Mrs Brigitte Hildegard Seaman, number=62485659
+Row: 107 display_name=Mary, number=62584856
+Row: 108 display_name=John James Hos., number=62818100
+Row: 109 display_name=CALMS, number=62881711
